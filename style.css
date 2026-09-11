@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .container{
-    background-image: url(grunge-abstrato-decorativo-textura-de-parede-azul-ou-fundo-de-padrao_84443-3700.avif);
+    background-image: url(/img/grunge-abstrato-decorativo-textura-de-parede-azul-ou-fundo-de-padrao_84443-3700.avif);
     background-size: cover;
     display: flex;
     justify-content: center;
